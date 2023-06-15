@@ -31,3 +31,25 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
+
+## Description 
+
+The following application is a web text based editor where the user can create notes or code snippets either with or without an internet connection.
+The user can also retrieve their code snippets or notes later if need be.
+
+## Technologies  
+
+1. .env
+2. .gitignore
+3. .node_modules
+4. javascript
+5. Html5
+6. CSS
+7. Webpack-Configuration 
+8. .eslintrc
+
+## Deployment Link 
+
+
+
+## ScreenShot of homepage
