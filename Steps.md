@@ -14,4 +14,5 @@ Steps to take for completion
 
 9. I had npm installed the following, Babel, Concurrently, Express, idb, node (that was installed before). I also installed css-loader, webpack, webpack-dev-server, and webpack-pwa-manifest inside of my devDependence's. ✅ 
  
-10. Not sure what do do now 
+10. Changed license, and did an npm install of the following "npm i -D @babel/plugin-proposal-object-rest-spread". ✅ 
+11. 
