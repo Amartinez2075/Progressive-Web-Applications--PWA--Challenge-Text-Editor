@@ -9,6 +9,7 @@ This application takes an existing text editor app and adds functionality for it
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployed Link](#deployed-link)
+- [Screenshot](#screenshot)
 - [Built With](#built-with)
 
 ## Installation
@@ -34,6 +35,10 @@ The link to the deployed application is: https://text-editor-pls-c273a9bf7b03.he
 
 **[⬆ back to top](#table-of-contents)**
 
+## Screenshot
+
+![JATE Screenshot](client/src/images/JATE Screenshot.png)
+
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -41,6 +46,5 @@ The link to the deployed application is: https://text-editor-pls-c273a9bf7b03.he
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/Javascript)
 * [NodeJS](https://nodejs.org/en/)
 * [ExpressJS](https://expressjs.com/)
-* {Webpack.config} 
   
 **[⬆ back to top](#table-of-contents)**
