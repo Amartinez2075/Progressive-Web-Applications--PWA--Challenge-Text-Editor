@@ -12,13 +12,6 @@
     "client": "cd client && npm start",
     "heroku-prebuild": "npm install --dev"
   },
-  "repository": {
-    "type": "git",
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-  },
   "dependencies": {
     "express": "^4.17.3"
   },
@@ -27,4 +20,4 @@
     "nodemon": "^2.0.4",
     "webpack": "^5.69.1"
   }
-}
+} 
