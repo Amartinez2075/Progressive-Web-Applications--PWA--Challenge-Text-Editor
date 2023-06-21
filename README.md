@@ -37,7 +37,7 @@ The link to the deployed application is: https://text-editor-pls-c273a9bf7b03.he
 
 ## Screenshot
 
-![JATE Screenshot](client/src/images/JATE Screenshot.png)
+![JATE Screenshot](client\src\images\JATE Screenshot.png)
 
 ## Built With
 
